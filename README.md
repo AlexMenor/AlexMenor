@@ -1,8 +1,8 @@
 ## Hi there 👋
 <p align='center'>
-<a href="https://dev.to/alexmenor"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="https://twitter.com/alex4menor"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/alejandro-menor-molinero-a34595176/"><img height="30" src=""></a>
+<a href="https://dev.to/alexmenor"><img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/alex4menor"><img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alejandro-menor-molinero-a34595176/"><img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/linkedin.png"></a>
 </p>
 I'm a 21 year old Computer Engineering student from Spain.
 
