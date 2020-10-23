@@ -3,7 +3,7 @@ I'm a 21 year old Computer Engineering student from Spain.
 
 After 2 years studying my degree, I found in Web and Mobile Development my passion. More specifically: Server Side Programming, Cloud Computing and API Design.
 
-I’m currently working at [Pantala](pantala.es) while I finish my degree, I'm also the lead of [DSC](https://developers.google.com/community/dsc) in Granada.
+I’m currently working at [Pantala](https://pantala.es) while I finish my degree, I'm also the lead of [DSC](https://developers.google.com/community/dsc) in Granada.
 
 ### Some of the technologies I enjoy the most are...
 
