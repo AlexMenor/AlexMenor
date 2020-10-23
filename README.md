@@ -12,10 +12,15 @@ I’m currently working at [Pantala](https://pantala.es) while I finish my degre
 
 ### Some of the technologies I enjoy the most are...
 
-- Node.js and Typescript <img height=30 src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/nodejs.png">
+- Node.js and Typescript 
 - Golang
 - Vue
 - Flutter
+
+<p align='center'>
+<img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/nodejs.png"> &nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/go.png"> &nbsp;&nbsp;
+</p>
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
