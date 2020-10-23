@@ -25,7 +25,7 @@ I’m currently working at [Pantala](https://pantala.es) while I finish my degre
 - Flutter
 
 
-### My latest blog posts
+### My latest blog posts :pencil:
 <!-- BLOG-POST-LIST:START -->
 - [Is "fundamentals first" the best approach to learning web development?](https://dev.to/alexmenor/is-fundamentals-first-the-best-approach-to-learning-web-development-4m29)
 - [The GitHub Student Pack free resources that you shouldn't miss](https://dev.to/alexmenor/the-github-student-pack-free-resources-that-you-shouldn-t-miss-630)
