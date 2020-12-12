@@ -24,6 +24,7 @@ I’m currently working at [Pantala](https://pantala.es) while I finish my degre
 
 ### My latest blog posts :pencil:
 <!-- BLOG-POST-LIST:START -->
+- [The known unknowns and learning on demand](https://dev.to/alexmenor/the-unknown-unknowns-and-learning-on-demand-2gi5)
 - [Is "fundamentals first" the best approach to learning web development?](https://dev.to/alexmenor/is-fundamentals-first-the-best-approach-to-learning-web-development-4m29)
 - [The GitHub Student Pack free resources that you shouldn't miss](https://dev.to/alexmenor/the-github-student-pack-free-resources-that-you-shouldn-t-miss-630)
 <!-- BLOG-POST-LIST:END -->
