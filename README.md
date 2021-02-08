@@ -25,11 +25,10 @@ I’m currently working at [Bounsel](https://bounsel.com) while I finish my degr
 ### My latest blog posts :pencil:
 
 <!-- BLOG-POST-LIST:START -->
-
 - [The known unknowns and learning on demand](https://dev.to/alexmenor/the-unknown-unknowns-and-learning-on-demand-2gi5)
 - [Is "fundamentals first" the best approach to learning web development?](https://dev.to/alexmenor/is-fundamentals-first-the-best-approach-to-learning-web-development-4m29)
 - [The GitHub Student Pack free resources that you shouldn't miss](https://dev.to/alexmenor/the-github-student-pack-free-resources-that-you-shouldn-t-miss-630)
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
   <p align='right'>
   <a href="https://dev.to/alexmenor"><img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/dev.png"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/alex4menor"><img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/twitter.png"></a>&nbsp;&nbsp;
