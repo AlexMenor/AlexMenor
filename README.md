@@ -1,26 +1,53 @@
-## Hi there 👋
+## Hello there 👋
 
-I'm a 22 year old Computer Engineering student from Spain.
+My name is Alex and I'm passionate about computers since I was a kid. Starting my degree in **Computer Engineering** was a no-brainer. 
 
-After 2 years studying my degree, I found in Web and Mobile Development my passion. More specifically: Server Side Programming, Cloud Computing and API Design.
+After a couple of years of focusing on fundamentals, I realized that I needed to get hands-on experience and got into entrepreneurship with a startup called *Pantala*. My goal there was to build a system from scratch so we could get a seed round, and we did it. 
 
-I’m currently working at [Bounsel](https://bounsel.com) while I finish my degree.
+In the middle of the last year of my degree, I had the opportunity to join *Bounsel*, an ambitious project that aims to end every pain in contract management with an all-in-one platform.
 
-### Some of the technologies I enjoy the most are...
+As the degree's final project, I went with *Héroes*, an app to fight insecurity in the streets.
 
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/nodejs.png"> &nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/go.png"> &nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/vue.svg"> &nbsp;&nbsp;
-<img height="30" src="https://raw.githubusercontent.com/AlexMenor/AlexMenor/master/img/flutter.png"> &nbsp;&nbsp;
-</p>
+Finally, I decided to join *Internxt* as I firmly believe that privacy should be in the core of every kind of software.
 
-- Node.js and Typescript
-- Golang
-- Vue
+
+
+
+I've always tried to be stack agnostic, emphasizing fundamentals and patterns that make great applications, but **these are the technologies I have more experience with:**
+
+**Backend:**
+
+- Node.js and Typescript with unopinionated (Express, Koa, Hapi) and opinionated (NestJS) frameworks
+- Python with FastAPI, Django and Flask as frameworks
+- Go
+
+- PostgreSQL
+- MongoDB
+
+- Kafka
+- Redis
+
+- AWS
+- GCP
+
+- Github Actions
+- CircleCI
+
+- Docker
+- Kubernetes
+
+**Frontend**
+
+- HTML/CSS/JS 
 - React
-- Flutter
+- Vue
+
+- Flutter 
+- React Native
+
+
+
+**I'm always eager to learn new things, not only about software and computers but also related to business and design.**
 
 ### My latest blog posts :pencil:
 
