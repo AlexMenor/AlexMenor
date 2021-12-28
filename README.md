@@ -52,6 +52,7 @@ I've always tried to be stack agnostic, emphasizing fundamentals and patterns th
 ### My latest blog posts :pencil:
 
 <!-- BLOG-POST-LIST:START -->
+- [Do you really know TypeScript? &lpar;2&rpar;:  Being strict](https://dev.to/alexmenor/do-you-really-know-typescript-2-being-strict-2edc)
 - [Do you really know TypeScript? &lpar;1&rpar;: Thinking in sets](https://dev.to/alexmenor/do-you-really-know-typescript-1-thinking-in-sets-55dm)
 - [The known unknowns and learning on demand](https://dev.to/alexmenor/the-unknown-unknowns-and-learning-on-demand-2gi5)
 - [Is &quot;fundamentals first&quot; the best approach to learning web development?](https://dev.to/alexmenor/is-fundamentals-first-the-best-approach-to-learning-web-development-4m29)
