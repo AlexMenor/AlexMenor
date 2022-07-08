@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am a full-stack software engineer passionate about building great products. I’ve worked mainly in fast-paced environments with a focus on making the biggest impact for the end-user, scaling from ideas to matured products.
+I am a full-stack software engineer passionate about building great products. I’ve worked mainly in fast-paced environments with a focus on making the biggest impact for the end-user, scaling from ideas to mature products.
 
 
 Although I have more experience with these technologies, I consider myself stack agnostic and can learn anything quickly.
