@@ -1,19 +1,10 @@
 ## Hello there 👋
 
-My name is Alex and I'm passionate about computers since I was a kid. Starting my degree in **Computer Engineering** was a no-brainer. 
-
-After a couple of years of focusing on fundamentals, I realized that I needed to get hands-on experience and got into entrepreneurship with a startup called *Pantala*. My goal there was to build a system from scratch so we could get a seed round, and we did it. 
-
-In the middle of the last year of my degree, I had the opportunity to join *Bounsel*, an ambitious project that aims to end every pain in contract management with an all-in-one platform.
-
-As the degree's final project, I went with *Héroes*, an app to fight insecurity in the streets.
-
-Finally, I decided to join *Internxt* as I firmly believe that privacy should be in the core of every kind of software.
+I am a full-stack software engineer passionate about building great products. I’ve worked mainly in fast-paced environments with a focus on making the biggest impact for the end-user, scaling from ideas to matured products.
 
 
+Although I have more experience with these technologies, I consider myself stack agnostic and can learn anything quickly.
 
-
-I've always tried to be stack agnostic, emphasizing fundamentals and patterns that make great applications, but **these are the technologies I have more experience with:**
 
 **Backend:**
 
