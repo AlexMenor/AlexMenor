@@ -6,7 +6,7 @@ I am a full-stack software engineer passionate about building great products. Iâ
 Although I have more experience with these technologies, I consider myself stack agnostic and can learn anything quickly.
 
 
-**Backend:**
+**Server side:**
 
 - Node.js and Typescript with unopinionated (Express, Koa, Hapi) and opinionated (NestJS) frameworks
 - Python with FastAPI, Django and Flask as frameworks
@@ -27,15 +27,16 @@ Although I have more experience with these technologies, I consider myself stack
 - Docker
 - Kubernetes
 
-**Frontend**
+**Client side:**
 
-- HTML/CSS/JS 
+- Strong HTML/CSS/JS fundamentals
 - React
 - Vue
 
 - Flutter 
 - React Native
 
+- Electron
 
 
 **I'm always eager to learn new things, not only about software and computers but also related to business and design.**
