@@ -1,45 +1,6 @@
 ## Hello there 👋
 
-I am a full-stack software engineer passionate about building great products. I’ve worked mainly in fast-paced environments with a focus on making the biggest impact for the end-user, scaling from ideas to mature products.
-
-
-Although I have more experience with these technologies, I consider myself stack agnostic and can learn anything quickly.
-
-
-**Server side:**
-
-- Node.js and Typescript with unopinionated (Express, Koa, Hapi) and opinionated (NestJS) frameworks
-- Python with FastAPI, Django and Flask as frameworks
-- Go
-
-- PostgreSQL
-- MongoDB
-
-- Kafka
-- Redis
-
-- AWS
-- GCP
-
-- Github Actions
-- CircleCI
-
-- Docker
-- Kubernetes
-
-**Client side:**
-
-- Strong HTML/CSS/JS fundamentals
-- React
-- Vue
-
-- Flutter 
-- React Native
-
-- Electron
-
-
-**I'm always eager to learn new things, not only about software and computers but also related to business and design.**
+I'm a passionate full-stack developer based in Spain with over 3 years of experience. I specialize in building high-performance web applications using TypeScript, Node.js, and React. I thrive in fast-paced environments and focus on making the biggest impact for the end-user, scaling from ideas to mature products. I constantly strive to learn new tools and technologies to stay ahead of the curve.
 
 ### My latest blog posts :pencil:
 
