@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a passionate full-stack developer based in Spain with over 3 years of experience. I specialize in building high-performance web applications using TypeScript, Node.js, and React. I thrive in fast-paced environments and focus on making the biggest impact for the end-user, scaling from ideas to mature products. I constantly strive to learn new tools and technologies to stay ahead of the curve.
+I'm a passionate full-stack developer based in Spain with over 4 years of experience. I specialize in building high-performance web applications using TypeScript, Node.js, and React. I thrive in fast-paced environments and focus on making the biggest impact for the end-user, scaling from ideas to mature products. I constantly strive to learn new tools and technologies to stay ahead of the curve.
 
 ### My latest blog posts :pencil:
 
